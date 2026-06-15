@@ -4,6 +4,7 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
+| 2026-06-15 | Missed Calls / AI Voice Agent | Diagnostic (data-led) | Domino's (Dom) | VOICE | Built in Canva | https://www.canva.com/d/FrRM6HDiYi-c3pS |
 | 2026-06-15 | The Hidden Revenue Inside Existing Customers | Revenue Leak | Starbucks + Bain | RETENTION | Built in Canva | https://www.canva.com/d/AzeO4mFx4hTmbUX |
 | 2026-06-15 | Why Most Detailers Don't Need More Leads | Diagnostic | Amazon | FOLLOW UP | Built in Canva | https://www.canva.com/d/BmARSF7PJIP89jZ |
 | 2026-06-15 | The Most Expensive Mistake on Your Website | Diagnostic | Deloitte | SITE | Built in Canva | https://www.canva.com/d/syZibPMa6RxmnEA |
