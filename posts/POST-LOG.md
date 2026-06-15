@@ -2,10 +2,13 @@
 
 Track what's shipped to avoid cannibalisation. Newest first.
 
-| Date | Topic | Template | Big-name | CTA word | Status | File |
+| Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
-| 2026-06-15 | How EV Growth Changes The Detailing Industry | Industry Insight | Tesla | EV | Drafted | post-02-ev-growth.md |
-| 2026-06-15 | Why Most Detailers Don't Need More Leads | Diagnostic | Amazon | FOLLOW UP | Drafted | post-01-no-more-leads.md |
+| 2026-06-15 | The Hidden Revenue Inside Existing Customers | Revenue Leak | Starbucks + Bain | RETENTION | Built in Canva | https://www.canva.com/d/AzeO4mFx4hTmbUX |
+| 2026-06-15 | Why Most Detailers Don't Need More Leads | Diagnostic | Amazon | FOLLOW UP | Built in Canva | https://www.canva.com/d/BmARSF7PJIP89jZ |
+| 2026-06-15 | The Most Expensive Mistake on Your Website | Diagnostic | Deloitte | SITE | Built in Canva | https://www.canva.com/d/syZibPMa6RxmnEA |
+| 2026-06-15 | Why Some Detailers Stay Stuck at $10k Months | Diagnostic | McDonald's / E-Myth | SYSTEM | Built in Canva | https://www.canva.com/d/VDqwvL2nLxUemsp |
+| 2026-06-15 | How EV Growth Changes The Detailing Industry | Industry Insight | Tesla | EV | Built in Canva | https://www.canva.com/d/QGL15KKuxP9M77Y |
 | (prior) | The 5-Minute Rule (speed to lead) | Industry Insight | Amazon/Domino's/Salesforce | SPEED | Published | Canva DAHL-QHOyLo |
 | (prior) | Meta vs Google Ads (client case study) | Case study | — | — | Published | Canva DAHMIUgpWA0 |
 | (prior) | Local SEO Levers | Diagnostic | — | — | Published | Canva DAHL9tIC1dY |
