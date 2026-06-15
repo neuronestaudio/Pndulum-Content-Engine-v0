@@ -4,7 +4,8 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
-| 2026-06-15 | Know Your Numbers (operational benchmarks) | Diagnostic (data-led) | Benchmark-led (no single giant) | NUMBERS | Built in Canva | https://www.canva.com/d/MXXHF1wr70i3kTJ |
+| 2026-06-15 | The Ad Math Just Changed (CPL/ROAS then vs now + AI) | Industry Insight (data-led) | WordStream / Meta / Google + Pndulum account | ROAS | Built in Canva | https://www.canva.com/d/FKxnBL1RYs_YuwR |
+| 2026-06-15 | Know Your Numbers (operational benchmarks) | Diagnostic (data-led) | Benchmark-led (no single giant) | NUMBERS | Built in Canva — owner felt low value | https://www.canva.com/d/MXXHF1wr70i3kTJ |
 | 2026-06-15 | State of Australian Detailing (the real data) | Diagnostic (data-led) | IBISWorld / NAB / QBE (AU data) | DATA | Built in Canva | https://www.canva.com/d/QZVY9Sf2-OlIBYA |
 | 2026-06-15 | The AI Shift / Implement AI | Industry Insight (data-led) | Netflix | AI | Built in Canva | https://www.canva.com/d/75_HqCcHdhLHIKL |
 | 2026-06-15 | Google Business Profile / Map Pack | Diagnostic (data-led) | Google (own data) | RANK | Built in Canva | https://www.canva.com/d/gLY7sWCAfvgqyUN |

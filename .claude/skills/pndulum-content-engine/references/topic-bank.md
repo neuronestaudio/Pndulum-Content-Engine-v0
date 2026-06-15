@@ -30,3 +30,9 @@ choosing — avoid cannibalising recent posts.
   calls** (not voice-search SEO, not tone-of-voice). Keep that distinction.
 - Local SEO is now covered twice (live Local SEO Levers = the levers; new GBP
   post = showing up / map-pack click share). Don't add a third without a new angle.
+- **What resonates (owner feedback):** posts with tension + a clear shift land
+  best — e.g. "the ad math just changed" (CPL/ROAS then vs now + AI). A generic
+  "know your numbers" operational-benchmark post felt low-value ("accounting
+  class"). Lead with a stakes-y reframe, not a checklist of metrics. Using
+  Pndulum's OWN account numbers (e.g. $16.68 CPL, 8.9× ROAS) as proof beats
+  generic benchmarks — it's real primary data and it's ownable.
