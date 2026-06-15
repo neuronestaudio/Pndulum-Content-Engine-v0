@@ -33,7 +33,9 @@ then renders it in Canva by cloning a live carousel as the brand master.
 
 1. **Verify every statistic with a live web search before writing.** Pndulum's
    whole brand rests on "backed by studies." Never invent or approximate a
-   number. Cite the source on-slide (e.g. `Whitespark, 2026`).
+   number, and **never claim primary research Pndulum didn't do** (no "we
+   surveyed 100 detailers" unless it's real — anchor in citable sources like
+   IBISWorld instead). Cite the source on-slide (e.g. `Whitespark, 2026`).
 2. **One familiar big-name corporation as the case study,** with backed data
    (Amazon, Tesla, McDonald's, Starbucks, Domino's, Salesforce…). This is the
    "what the giants know" lever. See `references/case-study-bank.md`.
@@ -55,7 +57,9 @@ then renders it in Canva by cloning a live carousel as the brand master.
    can name.
 4. **Write the slides** in the brand grammar (`references/brand-voice.md`):
    lowercase pain hook → ALL-CAPS payoff headline → one cited line per slide.
-   8 slides is the default length.
+   Default to the **sharp & data-led** voice (owner's preference; numbers do the
+   talking) — not the heavier emotional tone. 7 slides matches the live Canva
+   masters; 8 is the doc-only ideal.
 5. **Vary the cover.** Keep logo/handle/palette/`SWIPE →` fixed; vary ONE
    cover device per post so the feed looks designed by an agency
    (`references/brand-voice.md` → Cover variation system).
