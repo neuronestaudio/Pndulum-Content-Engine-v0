@@ -39,6 +39,14 @@ Examples from live posts:
 
 Pair the lowercase hook with one BIG ALL-CAPS contrarian statement.
 
+**Weak vs strong hooks (owner feedback):** abstract "X just changed" / "the
+math just changed" covers are weak — they don't speak to anyone. Strong covers
+name the *reader's* current state and put their money at stake:
+- Weak: "THE AD MATH / JUST CHANGED"
+- Strong: "YOUR ADS ARE / STUCK IN 2024" (blunt, diagnostic, speaks to *them*)
+Rule of thumb: the cover should make a specific detailer think "that's me."
+When unsure, offer 2–3 hook options before building the rest.
+
 ## Structure rhythm
 hook → common assumption → real diagnosis → evidence → **big-name case study**
 → **honest counterpoint / cost** → DO IT MONDAY → brand position + CTA.
