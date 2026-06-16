@@ -4,6 +4,7 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
+| 2026-06-16 | Your Buyer Is On His Phone (real Google Ads buyer data) | Diagnostic (data-led) | Live Google Ads account (mobile/near-me/men 25-44) | BUYER | Built in Canva | https://www.canva.com/d/6N-zW7pb_A-joUv |
 | 2026-06-16 | What's A Lead Worth? (max CPL formula: AOV x margin x close) | Diagnostic (data-led, teaching) | Benchmark + Pndulum account | FORMULA | Built in Canva | https://www.canva.com/d/LzzPRsn5DW0skCK |
 | 2026-06-15 | The Ad Math Just Changed (CPL/ROAS then vs now + AI) | Industry Insight (data-led) | WordStream / Meta / Google + Pndulum account | ROAS | Built in Canva; cover hook strengthened to "YOUR ADS ARE STUCK IN 2024" | https://www.canva.com/d/FKxnBL1RYs_YuwR |
 | 2026-06-15 | Know Your Numbers (operational benchmarks) | Diagnostic (data-led) | Benchmark-led (no single giant) | NUMBERS | Built in Canva — owner felt low value | https://www.canva.com/d/MXXHF1wr70i3kTJ |
