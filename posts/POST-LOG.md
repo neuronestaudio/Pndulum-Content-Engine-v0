@@ -4,6 +4,7 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
+| 2026-06-16 | Win The Phone, Win The Job (mobile-first ads + site + presence) | Diagnostic (data-led, empathetic titles) | Live Google Ads (78% mobile) | MOBILE | Built in Canva (+ responsive HTML poster: posters/mobile-first.html) | https://www.canva.com/d/RLU3DTMYCIUUnXk |
 | 2026-06-16 | Wasted Ad-Spend / Wrong Searches (junk terms + 13% impr. share + EV winners) | Revenue Leak | Tesla (EV thin paint / 19% CTR in-account) | AUDIT | Copy ready (post-05) — not built | — |
 | 2026-06-16 | Your Busiest Day Is Sunday (demand timing — day & hour report) | Diagnostic (data-led) | Google (near-me micro-moments) | TIMING | Copy ready (post-04) — not built | — |
 | 2026-06-16 | Clicks Up, Bookings Down (vanity metrics + scaling decay) | Diagnostic (data-led) | P&G (–$200M, no sales lost) + eBay study | BOOKINGS | Copy ready (post-03) — not built | — |
