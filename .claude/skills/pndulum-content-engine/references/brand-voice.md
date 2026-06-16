@@ -19,6 +19,17 @@ the books — not a hype marketer. We diagnose before we prescribe.
   Owner found this too much as a default — keep it light if used at all.
 - Both stay diagnostic and problem-aware. When unsure, default to sharp & data-led.
 
+## Titles must empathise — write from the owner's chair (owner feedback)
+Section titles/labels should relate to the detailer's reality, NOT read like a
+data report. Lead with what *they* or *their customer* is doing/feeling; keep
+the number as proof in the body underneath.
+- Weak (clinical): "THE DATA · 01 · DEVICE" / "THE DATA DOESN'T LIE"
+- Strong (empathetic): "HE NEVER OPENS A LAPTOP" / "YOU ALREADY KNOW HIM"
+- More: "YOU KNOW THE TYPE", "HE WANTS SOMEONE LOCAL", "MEET HIM WHERE HE IS"
+Use "you / your / he / they" + their lived situation. This is still sharp — NOT
+the heavy emotional pain-naming the owner rejected; it's a knowing nod, then the
+stat. The big number stays the proof; the title carries the empathy.
+
 ## Slide grammar (every slide follows this)
 1. **Label** — small caps category tag: `LEVER 1 · BIGGEST SIGNAL`,
    `WHAT THE GIANTS KNOW · AMAZON`, `THE HONEST COUNTERPOINT`.
