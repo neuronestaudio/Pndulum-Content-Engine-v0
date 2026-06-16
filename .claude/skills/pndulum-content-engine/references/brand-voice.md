@@ -26,9 +26,15 @@ the number as proof in the body underneath.
 - Weak (clinical): "THE DATA · 01 · DEVICE" / "THE DATA DOESN'T LIE"
 - Strong (empathetic): "HE NEVER OPENS A LAPTOP" / "YOU ALREADY KNOW HIM"
 - More: "YOU KNOW THE TYPE", "HE WANTS SOMEONE LOCAL", "MEET HIM WHERE HE IS"
-Use "you / your / he / they" + their lived situation. This is still sharp — NOT
+Use "you / your / they" + their lived situation. This is still sharp — NOT
 the heavy emotional pain-naming the owner rejected; it's a knowing nod, then the
 stat. The big number stays the proof; the title carries the empathy.
+**Default to gender-neutral "they/them/their"** (owner preference) — even when a
+data point is gendered (e.g. 72% male), keep the *voice* ambiguous; cite the
+fact in the body, don't build the pronouns around it.
+Two layers of empathy: the **cover** speaks TO the owner (a hook — "your buyers…");
+the **inner titles** speak FROM the owner's chair ("you already know them"). If
+the owner wants the cover itself to carry their *feeling*, offer 2–3 options.
 
 ## Slide grammar (every slide follows this)
 1. **Label** — small caps category tag: `LEVER 1 · BIGGEST SIGNAL`,
