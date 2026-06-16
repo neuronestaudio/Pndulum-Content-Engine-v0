@@ -64,6 +64,18 @@ name the *reader's* current state and put their money at stake:
 Rule of thumb: the cover should make a specific detailer think "that's me."
 When unsure, offer 2–3 hook options before building the rest.
 
+**Banned: clever/conceptual headlines (owner feedback, strong reaction).** A
+headline that states an *idea* ("MOBILE ISN'T A VERSION", "SPEED IS A FEATURE")
+does NOT resonate — it sounds like a designer being smart, not an operator
+naming a problem. Every headline must name the reader's PROBLEM or its COST in
+plain words:
+- Weak (conceptual): "MOBILE ISN'T A VERSION"
+- Strong (diagnostic): "YOUR PHONE SITE / LOSES THE JOB"
+Same rule for inner section labels — drop abstract framing like "PRINCIPLE 1 ·
+IT'S THE MAIN VERSION" for problem-aware labels like "WHAT GOOGLE ACTUALLY SEES"
+/ "EVERY EXTRA TAP COSTS YOU A JOB". If you can't say it to a detailer's face in
+the workshop, it's too clever.
+
 ## Structure rhythm
 hook → common assumption → real diagnosis → evidence → **big-name case study**
 → **honest counterpoint / cost** → DO IT MONDAY → brand position + CTA.

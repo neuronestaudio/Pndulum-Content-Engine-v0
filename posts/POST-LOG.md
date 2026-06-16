@@ -4,7 +4,7 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
-| 2026-06-16 | Mobile Isn't A Version (mobile-ready website principles) | Industry Insight (data-led, principle titles) | Google (mobile-first index, 53% / 3s, 48px) + 78% account | READY | Built in Canva | https://www.canva.com/d/Yc5-BnIB8WxZ_5d |
+| 2026-06-16 | Your Phone Site Loses The Job (mobile-ready website fixes) | Diagnostic (data-led, problem-aware) | Google (mobile-first index, 53% / 3s, 48px) + 78% account | READY | Built in Canva | https://www.canva.com/d/Yc5-BnIB8WxZ_5d |
 | 2026-06-16 | Win The Phone, Win The Job (mobile-first ads + site + presence) | Diagnostic (data-led, empathetic titles) | Live Google Ads (78% mobile) | MOBILE | Built in Canva (+ responsive HTML poster: posters/mobile-first.html) | https://www.canva.com/d/RLU3DTMYCIUUnXk |
 | 2026-06-16 | Wasted Ad-Spend / Wrong Searches (junk terms + 13% impr. share + EV winners) | Revenue Leak | Tesla (EV thin paint / 19% CTR in-account) | AUDIT | Built in Canva (cloned 5-Min master; post-05) | https://www.canva.com/d/pN1-LWSfa45e6i6 |
 | 2026-06-16 | Your Busiest Day Is Sunday (demand timing — day & hour report) | Diagnostic (data-led) | Google (near-me micro-moments) | TIMING | Built in Canva (cloned 5-Min master; post-04) | https://www.canva.com/d/09KQ35W2ytYeO37 |
