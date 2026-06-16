@@ -4,6 +4,9 @@ Track what's shipped to avoid cannibalisation. Newest first.
 
 | Date | Topic | Template | Big-name | CTA word | Status | Canva (edit) |
 |------|-------|----------|----------|----------|--------|------|
+| 2026-06-16 | Wasted Ad-Spend / Wrong Searches (junk terms + 13% impr. share + EV winners) | Revenue Leak | Tesla (EV thin paint / 19% CTR in-account) | AUDIT | Copy ready (post-05) — not built | — |
+| 2026-06-16 | Your Busiest Day Is Sunday (demand timing — day & hour report) | Diagnostic (data-led) | Google (near-me micro-moments) | TIMING | Copy ready (post-04) — not built | — |
+| 2026-06-16 | Clicks Up, Bookings Down (vanity metrics + scaling decay) | Diagnostic (data-led) | P&G (–$200M, no sales lost) + eBay study | BOOKINGS | Copy ready (post-03) — not built | — |
 | 2026-06-16 | Your Buyer Is On His Phone (real Google Ads buyer data) | Diagnostic (data-led) | Live Google Ads account (mobile/near-me/men 25-44) | BUYER | Built in Canva | https://www.canva.com/d/6N-zW7pb_A-joUv |
 | 2026-06-16 | What's A Lead Worth? (max CPL formula: AOV x margin x close) | Diagnostic (data-led, teaching) | Benchmark + Pndulum account | FORMULA | Built in Canva | https://www.canva.com/d/LzzPRsn5DW0skCK |
 | 2026-06-15 | The Ad Math Just Changed (CPL/ROAS then vs now + AI) | Industry Insight (data-led) | WordStream / Meta / Google + Pndulum account | ROAS | Built in Canva; cover hook strengthened to "YOUR ADS ARE STUCK IN 2024" | https://www.canva.com/d/FKxnBL1RYs_YuwR |
