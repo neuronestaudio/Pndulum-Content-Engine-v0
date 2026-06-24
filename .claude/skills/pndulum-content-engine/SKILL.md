@@ -4,6 +4,8 @@ description: >-
   Generate Pendulum Digital (Pndulum) social carousels for auto detailers —
   diagnostic, data-backed, Alex Hormozi free-value copy with a familiar
   big-name case-study, then push to Canva by cloning a live brand template.
+  Reads from and writes to the shared "PNDULUM META CONTENT ENGINE" Notion
+  database every time, learning the house voice from past + partner entries.
   Use when the user asks for a Meta/Instagram carousel, "another post", content
   for auto detailers, or anything in the Pndulum voice.
 ---
@@ -14,6 +16,12 @@ A copy-first content engine for **Pendulum Digital** (handle `@pndulumdigital`),
 a marketing agency for **Australian auto detailers** (PPF, ceramic, tint).
 It writes scroll-stopping, data-backed carousel copy in a fixed brand voice,
 then renders it in Canva by cloning a live carousel as the brand master.
+
+**System of record: the shared Notion database.** Every post is read from and
+written to the **PNDULUM META CONTENT ENGINE** Notion database, which is shared
+with the partner (who runs a parallel engine, `Hermes`). Read the database
+*before* writing — it is the evolving voice model — and fill the template row
+*after* writing. Full spec, schema, and the learning loop: `references/notion-database.md`.
 
 ## Core philosophy (do not violate)
 
@@ -47,9 +55,15 @@ then renders it in Canva by cloning a live carousel as the brand master.
 
 ## Workflow
 
-1. **Pick the topic.** Pull from `references/topic-bank.md`. Check
-   `posts/POST-LOG.md` first — do **not** cannibalise a recent post (e.g.
-   speed-to-lead has been done heavily; avoid re-treading it).
+0. **Sync from the database first** (`references/notion-database.md`). Query the
+   Notion DB across **both engines** (`Claude Code` *and* `Hermes`) to: (a) avoid
+   cannibalising a recent topic or `Content Lesson`, (b) learn the current house
+   voice from `Approved`/`Posted` rows, and (c) read the `Manual Edits` column —
+   the human corrections are the strongest voice signal. Note the current max
+   `Number`. This DB is now the canonical log (supersedes `posts/POST-LOG.md`).
+1. **Pick the topic.** Pull from `references/topic-bank.md`. Cross-check against
+   the DB sync above — do **not** cannibalise a recent post (e.g. speed-to-lead
+   has been done heavily; avoid re-treading it).
 2. **Choose a template** (`references/carousel-templates.md`): Diagnostic,
    Revenue Leak, or Industry Insight. Rotate for variety.
 3. **Research & verify.** Run parallel web searches for: the core stat, the
@@ -68,7 +82,14 @@ then renders it in Canva by cloning a live carousel as the brand master.
 7. **Render in Canva** (`references/canva-workflow.md`): clone a live carousel
    as the brand master and inject the copy text-for-text. Do **not** use Canva
    AI to generate fresh designs — it breaks brand consistency.
-8. **Log it** in `posts/POST-LOG.md` and save the copy to `posts/`.
+8. **Write the template row to Notion** (`references/notion-database.md`). Create
+   one new page in the data source, fill **every** field (Carousel Name, Number,
+   Angle, Content Lesson, Slide 1 Hook, Slide Breakdown, CTA, Slide Count,
+   Post Caption, Post Date if known), set `Engine = Claude Code`, set
+   `Status = Needs Edit` (lands in the partner's Approval Queue), and leave
+   `Manual Edits` empty for the human. Add the `Canva Link` once rendered.
+9. **Also save locally:** mirror the copy to `posts/` and append a line to
+   `posts/POST-LOG.md` (the DB is canonical; the files are a backup/worked log).
 
 ## Output format
 
@@ -84,4 +105,6 @@ sources. Worked examples: `posts/post-01-no-more-leads.md`,
 - `references/canva-workflow.md` — clone-and-inject Canva process + MCP tools
 - `references/case-study-bank.md` — verified big-name case studies + data
 - `references/topic-bank.md` — the 10-topic content bank
-- `posts/POST-LOG.md` — what's shipped (avoid cannibalisation)
+- `references/notion-database.md` — the shared Notion DB: schema, template
+  fields, status flow, and the read-before-write **learning loop**
+- `posts/POST-LOG.md` — local backup log (the Notion DB is now canonical)

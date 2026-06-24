@@ -15,9 +15,19 @@ the skill is auto-discovered from `.claude/skills/`. Just ask:
 
 > "Write the next Pndulum carousel" — or — "do another post for the detailers"
 
-Claude will: pick a topic from the bank (avoiding cannibalisation) → choose a
-template → **verify every stat with a live web search** → write the slide copy
-in the brand voice → and offer to push it to Canva.
+Claude will: **sync from the shared Notion database** (learning the house voice
+from past + partner entries) → pick a topic from the bank (avoiding
+cannibalisation) → choose a template → **verify every stat with a live web
+search** → write the slide copy in the brand voice → offer to push it to Canva →
+and **write the filled template row back to Notion**.
+
+## The Notion database (system of record)
+
+This engine reads from and writes to the shared **PNDULUM META CONTENT ENGINE**
+Notion database every run. It's shared with the partner's engine (`Hermes`), and
+the database — not a static file — is the evolving voice model: every post fills
+a template row, and every run learns from past entries and the human `Manual
+Edits`. Full spec: `.claude/skills/pndulum-content-engine/references/notion-database.md`.
 
 To use it from any project, copy `.claude/skills/pndulum-content-engine/` into
 your `~/.claude/skills/` folder.
@@ -32,7 +42,8 @@ your `~/.claude/skills/` folder.
     ├── carousel-templates.md     # 3 slide skeletons
     ├── canva-workflow.md         # clone-and-inject Canva process
     ├── case-study-bank.md        # verified big-name case studies
-    └── topic-bank.md             # the 10-topic content bank
+    ├── topic-bank.md             # the 10-topic content bank
+    └── notion-database.md        # shared Notion DB: schema, template, learning loop
 posts/
 ├── POST-LOG.md                   # shipped log (avoid cannibalisation)
 ├── post-01-no-more-leads.md      # worked example — Diagnostic / Amazon
